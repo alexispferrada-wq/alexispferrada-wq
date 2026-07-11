@@ -26,8 +26,8 @@ Verificacion oficial en Credly: https://www.credly.com/badges/30d239d4-af64-45e0
 Estado: insignia verificable en plataforma externa
 
 2. Desarrollo de Aplicaciones Iniciales INACAP 162 horas
-Verificacion oficial: https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx?_gl=1*15kfbsf*_gcl_au*MTEwMDcyMTIyNS4xNzgyNzI3MzAx*_ga*MTk1Mjc4MTYwMS4xNzgyNzI3MzAx*_ga_YH9XX26RPR*czE3ODM3OTMzODgkbzM2JGcxJHQxNzgzNzk0OTg1JGoyMSRsMCRoMA..
-Link de verificacion de documentos INACAP: https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx?_gl=1*15kfbsf*_gcl_au*MTEwMDcyMTIyNS4xNzgyNzI3MzAx*_ga*MTk1Mjc4MTYwMS4xNzgyNzI3MzAx*_ga_YH9XX26RPR*czE3ODM3OTMzODgkbzM2JGcxJHQxNzgzNzk0OTg1JGoyMSRsMCRoMA..
+Verificacion oficial: [siga.inacap.cl Verificacion de Certificados](https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx?_gl=1*15kfbsf*_gcl_au*MTEwMDcyMTIyNS4xNzgyNzI3MzAx*_ga*MTk1Mjc4MTYwMS4xNzgyNzI3MzAx*_ga_YH9XX26RPR*czE3ODM3OTMzODgkbzM2JGcxJHQxNzgzNzk0OTg1JGoyMSRsMCRoMA..)
+Link de verificacion de documentos INACAP: [Abrir portal INACAP](https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx?_gl=1*15kfbsf*_gcl_au*MTEwMDcyMTIyNS4xNzgyNzI3MzAx*_ga*MTk1Mjc4MTYwMS4xNzgyNzI3MzAx*_ga_YH9XX26RPR*czE3ODM3OTMzODgkbzM2JGcxJHQxNzgzNzk0OTg1JGoyMSRsMCRoMA..)
 Codigo de verificacion: B9BD6256E7A93F91
 Certificado numero: 13992143
 Estado: certificacion verificable con codigo y numero
