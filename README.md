@@ -3,6 +3,14 @@
 Ingenieria en Informatica en curso, Analista Programador titulado y fundador de TuSitioYa.
 Construyo productos SaaS en produccion para pymes chilenas, con foco en arquitectura, operacion e impacto de negocio.
 
+## Verificacion Publica Inmediata
+
+[![Insignia Verificada RH124](https://img.shields.io/badge/Insignia%20Verificada-RH124-red?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url)
+[![Verificar en Credly](https://img.shields.io/badge/Verificar%20en-Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url)
+[![Certificacion INACAP Verificable](https://img.shields.io/badge/Certificacion%20INACAP-Verificable-0057B8?style=for-the-badge)](https://www.inacap.cl)
+
+Evidencia verificable disponible para reclutadores en Credly e INACAP.
+
 ## Perfil Profesional
 
 Desarrollador orientado a producto, con experiencia en diseno y entrega de soluciones web reales.
@@ -13,11 +21,13 @@ Busco aportar en equipos de ingenieria donde la calidad tecnica y el impacto del
 
 1. Red Hat System Administration I RH124
 Verificacion oficial en Credly: https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url
+Estado: insignia verificable en plataforma externa
 
 2. Desarrollo de Aplicaciones Iniciales INACAP 162 horas
 Verificacion oficial: https://www.inacap.cl
 Codigo de verificacion: B9BD6256E7A93F91
 Certificado numero: 13992143
+Estado: certificacion verificable con codigo y numero
 
 ## Competencias Tecnicas Clave
 
