@@ -10,6 +10,7 @@ Construyo productos SaaS en produccion para pymes chilenas, con foco en arquitec
 [![Certificacion INACAP Verificable](https://img.shields.io/badge/Certificacion%20INACAP-Verificable-0057B8?style=for-the-badge)](https://www.inacap.cl)
 
 Evidencia verificable disponible para reclutadores en Credly e INACAP.
+Verificacion de documentos INACAP: [https://www.inacap.cl](https://www.inacap.cl)
 
 ## Perfil Profesional
 
@@ -25,6 +26,7 @@ Estado: insignia verificable en plataforma externa
 
 2. Desarrollo de Aplicaciones Iniciales INACAP 162 horas
 Verificacion oficial: https://www.inacap.cl
+Link de verificacion de documentos INACAP: https://www.inacap.cl
 Codigo de verificacion: B9BD6256E7A93F91
 Certificado numero: 13992143
 Estado: certificacion verificable con codigo y numero
