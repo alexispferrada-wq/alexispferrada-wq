@@ -17,3 +17,9 @@ Python (Django, Flask) · Node.js · JavaScript · SQL (PostgreSQL, MySQL, SQL S
 
 ## 📫 Contacto
 📧 alexispferrada@gmail.com · 🌐 [tusitioya.cl](https://tusitioya.cl) · 💼 Abierto a oportunidades junior/trainee (remoto o Santiago poniente)
+
+
+## 🏅 Insignia Destacada
+[![Red Hat RH124](https://img.shields.io/badge/Red%20Hat-RH124-red?logo=redhat&logoColor=white)](https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url)
+
+Verificación oficial: https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url
