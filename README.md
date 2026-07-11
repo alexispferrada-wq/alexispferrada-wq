@@ -1,4 +1,4 @@
-# Hola, soy Alexis Ferrada 👋
+👋✅ó🔎🔗íá🚀—ó···ñó—áñá—óó🛠️·········🎓óíá—óó—ó—📫📧·🌐·💼# Hola, soy Alexis Ferrada 👋
 
 **Analista Programador** titulado y estudiante de **Ingeniería en Informática** (INACAP). Fundador de [TuSitioYa](https://tusitioya.cl), donde construyo productos SaaS reales para pymes chilenas.
 
