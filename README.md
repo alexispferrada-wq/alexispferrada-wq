@@ -69,6 +69,9 @@ Construyo productos SaaS en producción para pymes chilenas, con foco en arquite
 1. **TrackAI** (⭐ destacado)
    Copiloto de mezcla con IA para Serato DJ. Multiplataforma, con motor armónico, cerebro de hábitos y licenciamiento seguro.
 
+2. **trackai-lib** (🔓 open source)
+   Librería pública para leer la base de datos de **Serato DJ Pro** (`master.sqlite`), crates, cue points (Serato Markers2) y motor armónico Camelot. Todo en solo lectura. → https://github.com/alexispferrada-wq/trackai-lib
+
 2. **TurboPOS**
    Plataforma SaaS de punto de venta en producción. Django, PostgreSQL, HTMX, Tailwind CSS.
 
