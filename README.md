@@ -47,22 +47,33 @@ Construyo productos SaaS en producción para pymes chilenas, con foco en arquite
 [![Insignia Verificada RH124](https://img.shields.io/badge/Insignia%20Verificada-RH124-red?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url)
 [![Verificar en Credly](https://img.shields.io/badge/Verificar%20en-Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url)
 [![Certificacion INACAP Verificable](https://img.shields.io/badge/Certificacion%20INACAP-Verificable-0057B8?style=for-the-badge)](https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx)
+[![Infraestructura TI Segura](https://img.shields.io/badge/INACAP-Infraestructura%20TI%20Segura%20·%20144h-3DDC84?style=for-the-badge)](https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx)
 
 ## 🏅 Certificaciones Verificadas
 
 1. **Red Hat System Administration I RH124**
    🔗 Verificación oficial en [Credly](https://www.credly.com/badges/30d239d4-af64-45e0-9767-50092c6c36d3/public_url)
 
-2. **Desarrollo de Aplicaciones Iniciales INACAP (162 horas)**
+2. 🆕 **Infraestructura TI Segura — INACAP (144 horas)**
+   📚 Fundamentos de Seguridad de la Información (72 h) + Sistemas Operativos (72 h)
+   🔗 Verificación oficial: [Portal INACAP](https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx)
+   🧾 Código: `742BF58FA044B783` · 🔢 Certificado N° `14089093` · 📅 Agosto 2026
+
+3. **Desarrollo de Aplicaciones Iniciales — INACAP (162 horas)**
+   📚 Programación Segura (90 h) + Programación Orientada a Objetos Segura (72 h)
    🔗 Verificación oficial: [Portal INACAP](https://siga.inacap.cl/Inacap.VerificacionCertificados/Default.aspx)
    🧾 Código: `B9BD6256E7A93F91` · 🔢 Certificado N° `13992143`
+
+> **306 horas certificadas por INACAP**, todas verificables con código oficial.
 
 ## 🛠️ Competencias Técnicas Clave
 
 - Administración Linux sobre RHEL, gestión de usuarios, permisos y servicios
 - Backend con Python y Node.js, bases de datos SQL
-- APIs de inteligencia artificial para automatización y productividad
+- APIs de inteligencia artificial, agentes con RAG y function calling
 - Criptografía, licenciamiento de software y seguridad en APIs
+- Seguridad de la información e infraestructura TI segura
+- Bases de datos vectoriales y motores de recomendación
 
 ## 📌 Proyectos Relevantes
 
@@ -72,13 +83,16 @@ Construyo productos SaaS en producción para pymes chilenas, con foco en arquite
 2. **trackai-lib** (🔓 open source)
    Librería pública para leer la base de datos de **Serato DJ Pro** (`master.sqlite`), crates, cue points (Serato Markers2) y motor armónico Camelot. Todo en solo lectura. → https://github.com/alexispferrada-wq/trackai-lib
 
-2. **TurboPOS**
+3. **TurboPOS**
    Plataforma SaaS de punto de venta en producción. Django, PostgreSQL, HTMX, Tailwind CSS.
 
-3. **VoxMetrics**
+4. **VoxMetrics**
    Análisis de calidad de llamadas con IA para call center. faster-whisper, Claude API.
 
-4. **TuSitioYa**
+5. **Agentes de IA a medida**
+   Cotizadores conversacionales, radar de leads y soporte automatizado. RAG, embeddings y function calling sobre Cloudflare Workers.
+
+6. **TuSitioYa**
    Línea de productos digitales para pymes. https://tusitioya.cl
 
 ## ⚙️ Stack Tecnológico
@@ -88,7 +102,9 @@ Python, Django, Flask, Node.js, JavaScript, Electron, SQL, PostgreSQL, MySQL, SQ
 ## 🎓 Formación
 
 1. Ingeniería en Informática, INACAP, en curso (mención Ciberseguridad)
-2. Analista Programador, Instituto Profesional de Chile
+2. Analista Programador, Instituto Profesional de Chile (titulado)
+3. Certificación Infraestructura TI Segura, INACAP, 144 horas (2026)
+4. Certificación Desarrollo de Aplicaciones Iniciales, INACAP, 162 horas (2026)
 
 ## 📫 Contacto
 
