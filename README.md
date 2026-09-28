@@ -2,9 +2,16 @@
 
 <div align="center">
 
-# 🎚️ TrackAI
+# 🎚️ TrackAI.party
 
 **Copiloto de Mezcla en Tiempo Real para DJs**
+*Sincronización en vivo con Serato DJ, Virtual DJ & Rekordbox*
+
+🌐 **[trackai.party](https://trackai.party)** · 📖 **[Manual de Cabina](https://trackai.party/manual)** · 📦 **[Web & Releases](https://github.com/alexispferrada-wq/trackai-web)** · 🔓 **[trackai-lib](https://github.com/alexispferrada-wq/trackai-lib)**
+
+[![Sitio Web Oficial](https://img.shields.io/badge/Web%20Oficial-trackai.party-FF0055?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trackai.party)
+[![Open Source Core](https://img.shields.io/badge/Open%20Source-trackai--lib-00D2FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexispferrada-wq/trackai-lib)
+[![Live Releases](https://img.shields.io/badge/Releases-v2.5.15-success?style=for-the-badge&logo=electron&logoColor=white)](https://trackai.party)
 
 El DJ más inteligente del set. Analiza lo que suena en Serato, entiende la armonía de cada canción y te sugiere la siguiente jugada perfecta — en vivo, sin copiar ni pegar.
 
@@ -77,11 +84,15 @@ Construyo productos SaaS en producción para pymes chilenas, con foco en arquite
 
 ## 📌 Proyectos Relevantes
 
-1. **TrackAI** (⭐ destacado)
-   Copiloto de mezcla con IA para Serato DJ. Multiplataforma, con motor armónico, cerebro de hábitos y licenciamiento seguro.
+1. **TrackAI.party** (⭐ destacado)
+   Copiloto de mezcla con IA para Serato DJ, Virtual DJ y Rekordbox. Multiplataforma (macOS / Windows), con motor armónico Camelot, Live Pitch® neural, memoria de hábitos y validación criptográfica offline.
+   - 🌐 Portal Oficial: [trackai.party](https://trackai.party)
+   - 📖 Manual de Cabina: [trackai.party/manual](https://trackai.party/manual)
+   - 💻 Landing & Releases: [alexispferrada-wq/trackai-web](https://github.com/alexispferrada-wq/trackai-web)
 
 2. **trackai-lib** (🔓 open source)
-   Librería pública para leer la base de datos de **Serato DJ Pro** (`master.sqlite`), crates, cue points (Serato Markers2) y motor armónico Camelot. Todo en solo lectura. → https://github.com/alexispferrada-wq/trackai-lib
+   Librería pública para leer la base de datos de **Serato DJ Pro** (`master.sqlite`), crates, cue points (Serato Markers2) y motor armónico Camelot. Todo en solo lectura.
+   - 📦 Repositorio: [alexispferrada-wq/trackai-lib](https://github.com/alexispferrada-wq/trackai-lib) · Core libre de [trackai.party](https://trackai.party)
 
 3. **TurboPOS**
    Plataforma SaaS de punto de venta en producción. Django, PostgreSQL, HTMX, Tailwind CSS.
@@ -116,6 +127,7 @@ Disponibilidad: oportunidades junior y trainee, remoto o presencial en Santiago 
 
 <div align="center">
 
-**TrackAI · Live Pitch® · Smart Mixing Copilot** — hecho con 🎧 para DJs de verdad
+**TrackAI.party · Live Pitch® · Smart Mixing Copilot** — hecho con 🎧 para DJs de verdad  
+🌐 [trackai.party](https://trackai.party)
 
 </div>
